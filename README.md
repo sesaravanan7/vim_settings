@@ -1,3 +1,5 @@
+## Screenshot
+![alt text](https://github.com/sesaravanan7/vim_settings/blob/master/Screenshot1.png)
 ## Requirements
 - ctags (yum install ctags on redhat based systems)
 - vim must be compiled with perl & python (in order to use gundo)
